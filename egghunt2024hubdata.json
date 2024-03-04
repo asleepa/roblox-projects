@@ -1,0 +1,24 @@
+{
+  "Badges": [
+    {"Game": "Where's the Baby!", "ID": "503282125894246"},
+    {"Game": "Astro Renaissance", "ID": "4135484921332210"},
+    {"Game": "Boxing Beta!", "ID": "1741598486672"},
+    {"Game": "Restaurant Tycoon 2", "ID": "3343479586894918"},
+    {"Game": "War Machines", "ID": "4417973491171074"},
+    {"Game": "Tower Heroes", "ID": "3175787412653568"},
+    {"Game": "Tower Defense Simulator", "ID": "1649143115111218"},
+    {"Game": "Dungeon Quest", "ID": "1944624489758435"},
+    {"Game": "Elemental Power Tycoon", "ID": "1554247241410455"},
+    {"Game": "Combat Warriors", "ID": "3548895558816086"},
+    {"Game": "Lab Experiment", "ID": "1462286943978981"},
+    {"Game": "Arsenal", "ID": "2524484866295916"},
+    {"Game": "Obby But You're On A Bike", "ID": "3491459325032795"},
+    {"Game": "The Mimic", "ID": "1832660142626803"},
+    {"Game": "Pet Simulator 99", "ID": "3189151177666639"}
+  ],
+  "Games": [
+    {"ID": 16537295657},
+    {"ID": 16552144512},
+    {"ID": 16580272204}
+  ]
+}
